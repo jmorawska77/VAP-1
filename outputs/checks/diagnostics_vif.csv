@@ -1,0 +1,13 @@
+model,term,vif
+F3 vowels (final),mean_F0_6,1.0980003116695929
+F3 vowels (final),age,1.0226139406449768
+F3 vowels (final),height,1.2187898420679844
+F3 vowels (final),BMI,1.1601566075704768
+F3 vowels (final),WHR,1.1968869813150775
+F3 vowels (final),Grip_MAX_both,1.2194230996789341
+F4 vowels (final),mean_F0_6,1.0980003116695927
+F4 vowels (final),age,1.0226139406449766
+F4 vowels (final),height,1.2187898420679841
+F4 vowels (final),BMI,1.1601566075704766
+F4 vowels (final),WHR,1.1968869813150773
+F4 vowels (final),Grip_MAX_both,1.219423099678934

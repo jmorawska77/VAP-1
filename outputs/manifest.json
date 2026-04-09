@@ -1,0 +1,202 @@
+[
+  {
+    "path": "outputs/analysis_df.rds",
+    "size": 14197,
+    "sha256": "485a6e60157d6398f7f50178bdb7640ab406c24e3673a4ed0ca99cac58773a46"
+  },
+  {
+    "path": "outputs/checks/BayesFactor_key_pairs.csv",
+    "size": 476,
+    "sha256": "3f6e32c34696da369be36cf39ee597e94cd52b8ea9ab08530ed979046de131c5"
+  },
+  {
+    "path": "outputs/checks/column_mapping.csv",
+    "size": 218,
+    "sha256": "62f3ef8bcd7475df253d4836fe7b59390e1fbe0bd078cba6a72284e5bf34d339"
+  },
+  {
+    "path": "outputs/checks/diagnostics_cooks.csv",
+    "size": 108,
+    "sha256": "714179189ca8cdfa1dd955d6d678b82a5d5c4e7733c42b9da2b3707910bb397e"
+  },
+  {
+    "path": "outputs/checks/diagnostics_shapiro.csv",
+    "size": 140,
+    "sha256": "cffdf17aef8f74698dfd87594b69a53410c1cd76008fbc20a88e538f52b07a6c"
+  },
+  {
+    "path": "outputs/checks/diagnostics_vif.csv",
+    "size": 544,
+    "sha256": "6e68baa0af95809815a87f44f8b5ca1ed8232a1a4500c360c575b9a81a78ebeb"
+  },
+  {
+    "path": "outputs/checks/sensitivity_vowels_models.csv",
+    "size": 2562,
+    "sha256": "658677957cf30690069b452450dba354415c5c6fadd5a94b100b850db5433da6"
+  },
+  {
+    "path": "outputs/checks/sessionInfo.txt",
+    "size": 2160,
+    "sha256": "27b6bf54963df62b2b3201eb24238801728325e8832bfcb9227899f763548b41"
+  },
+  {
+    "path": "outputs/checks/TOST_key_pairs.csv",
+    "size": 925,
+    "sha256": "3d1f20fdb10dcdf551c91222df5c2e9f5a5733d59680e24814a524877862c9f7"
+  },
+  {
+    "path": "outputs/figures/Figure_1_forest_vowels.tiff",
+    "size": 211408,
+    "sha256": "98acb9b1ef5f3533fd2af41b91c662053ee2a2dbcdfdbf80331c658cd8cd85ee"
+  },
+  {
+    "path": "outputs/figures/Figure_S_forest_sentence.tiff",
+    "size": 213710,
+    "sha256": "b4190d643a08f3706803b8b862f1e08735658fbf1f39222f91547b187aa2215d"
+  },
+  {
+    "path": "outputs/figures/Figure_validation_F3_F4.tiff",
+    "size": 399278,
+    "sha256": "779a7d199fb6cead946379492f08f25bd78b4f5e0a99464c80ca584559b5cde4"
+  },
+  {
+    "path": "outputs/R_history_2026-02-21.Rhistory",
+    "size": 14586,
+    "sha256": "714b4677df6bc9815d768e5544df69035e5ce14e02b94d2a43edf1f965162748"
+  },
+  {
+    "path": "outputs/R_history_all.Rhistory",
+    "size": 14692,
+    "sha256": "c40026bf1fadf00d326b330666c5f1793eab54e07c8bb18294e06bb172682b11"
+  },
+  {
+    "path": "outputs/raw_df.rds",
+    "size": 12387,
+    "sha256": "c4597492e167637f2645e628ada6aab891a7cef588b1a860226184368a261f96"
+  },
+  {
+    "path": "outputs/tables/BF01_correlations.html",
+    "size": 14263,
+    "sha256": "1db2dbfbaa11fe00f281ca0ada4a0fef74b326e44a41fa5a324294c7c5fa04e5"
+  },
+  {
+    "path": "outputs/tables/Power_analysis.html",
+    "size": 10746,
+    "sha256": "acd4dd7915886f17a916f32d5b96f254b12ede435c3579801eb7fc2f699285d6"
+  },
+  {
+    "path": "outputs/tables/Table1.html",
+    "size": 14876,
+    "sha256": "772cae38d3c21ea3acaf7087be69652c28894e1dec2d78d54138f67ae1358261"
+  },
+  {
+    "path": "outputs/tables/Table2_validation.html",
+    "size": 11145,
+    "sha256": "b31fdcd7abfe0152608be87aa255bac92cc6f84be13577d1de0abd1798786b74"
+  },
+  {
+    "path": "outputs/tables/Table3_correlations_vowels.html",
+    "size": 13938,
+    "sha256": "ca03a1f16a07ccf1cc85d62e7963b494fcae27e6d01c3710da8464d6eefbed3c"
+  },
+  {
+    "path": "outputs/tables/Table4_F3_coefficients.html",
+    "size": 14922,
+    "sha256": "b1a62e7c926e68ec9783008c276e24862450b11ef87e57b541f150303dac9d0b"
+  },
+  {
+    "path": "outputs/tables/Table4_F3_modelstats.html",
+    "size": 12693,
+    "sha256": "bef2ebb4fb9c8f867a1e6941075ff77e9eb96fb3cd8469797ecbde3ebb34c218"
+  },
+  {
+    "path": "outputs/tables/Table4_F3_pretty.csv",
+    "size": 705,
+    "sha256": "0770f95b213f0b614a4845575bd9fe277cad94dfe815cbf578ae9551022f8e46"
+  },
+  {
+    "path": "outputs/tables/table4_hierarchical_f3.csv",
+    "size": 1337,
+    "sha256": "9e372733bd39b01cb3114ffb4e4e278a8a3d781691c54b558031eb7426090158"
+  },
+  {
+    "path": "outputs/tables/table4_hierarchical_f3.xlsx",
+    "size": 6117,
+    "sha256": "599792756be3965196e8023110f7da03bc19e69cfefd10e636c4ae8047293af3"
+  },
+  {
+    "path": "outputs/tables/Table5_F4_coefficients.html",
+    "size": 14918,
+    "sha256": "39694fc2ba5cdebf8c7c49247854c0210ef5e3eb6c17b58309c508687b23fd69"
+  },
+  {
+    "path": "outputs/tables/Table5_F4_modelstats.html",
+    "size": 12697,
+    "sha256": "596ee9332996e8cefa038d99a1f6ec6921d56d64e304546b723252f9e37503c6"
+  },
+  {
+    "path": "outputs/tables/Table5_F4_pretty.csv",
+    "size": 710,
+    "sha256": "13437e9bc7fb1b469969f3ff72f90e62bb828f2734666858bbf86431d4ebe153"
+  },
+  {
+    "path": "outputs/tables/table5_hierarchical_f4.csv",
+    "size": 1349,
+    "sha256": "12c748f04cd910ecf4b2e9ef2ff61468c75da1c55c1fa583eef96a5e1556bcd3"
+  },
+  {
+    "path": "outputs/tables/table5_hierarchical_f4.xlsx",
+    "size": 6129,
+    "sha256": "fcc95f1ce19a033193697a74254174860733bdd7eb95c52dbfb02024719b338c"
+  },
+  {
+    "path": "outputs/tables/TableS_correlations_sentence.html",
+    "size": 14039,
+    "sha256": "3dd94aad2df36ee4a3debfb6996f1186ab4fcec8f5cfe55e8ff83d33ed39fe58"
+  },
+  {
+    "path": "outputs/tables/TableS1_F3_sentence_coefficients.html",
+    "size": 12888,
+    "sha256": "c51b0ad0b72e7fe0c5f3098b7d2b8179fb630147413f9699357311e41a54d3b1"
+  },
+  {
+    "path": "outputs/tables/TableS1_F3_sentence_modelstats.html",
+    "size": 11618,
+    "sha256": "ebca6097ddd3e849ca971d0e77d7e1ce41926bd208d538bdb68db914ff8566e4"
+  },
+  {
+    "path": "outputs/tables/TableS1_F3_sentence_pretty.csv",
+    "size": 400,
+    "sha256": "0aa27cb232e6e5f371fb30de5588d3fe524229ff63a62c3e661acb22ba0f5c17"
+  },
+  {
+    "path": "outputs/tables/TableS1_F3_sentence_stats.csv",
+    "size": 263,
+    "sha256": "7d45b4583530e8f2f00dc1ad4b62fe885975ad400f8700b7ee0b0ded70ae4aa9"
+  },
+  {
+    "path": "outputs/tables/TableS2_F4_sentence_coefficients.html",
+    "size": 12891,
+    "sha256": "56ef9645fcaad2a4972f68e197e0264cd579acfbf2332b9a81e0e81084046e01"
+  },
+  {
+    "path": "outputs/tables/TableS2_F4_sentence_modelstats.html",
+    "size": 11618,
+    "sha256": "cd7328a52ed8181e72f0c153185f3f975cf8c09666e8e0be53196cd370c389c2"
+  },
+  {
+    "path": "outputs/tables/TableS2_F4_sentence_pretty.csv",
+    "size": 403,
+    "sha256": "92f5f51d9f16ab850fe7478014fde4807d77f23709b15f01c56b3592bbfab987"
+  },
+  {
+    "path": "outputs/tables/TableS2_F4_sentence_stats.csv",
+    "size": 264,
+    "sha256": "03e4e26396a402a68ea1331b95bd215c47dade644a72986c0f04d83f5a43576f"
+  },
+  {
+    "path": "outputs/tables/TOST_correlations.html",
+    "size": 15360,
+    "sha256": "612ba65af61ec4767326fd9dd082425dac43524b7c4a647fbc4e486a61caa185"
+  }
+]

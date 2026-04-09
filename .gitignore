@@ -1,0 +1,16 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.DS_Store
+
+*.zip
+*backup*
+*bundle*
+
+*.tmp
+
+data/raw/
+
+*.wav
+*.mp3

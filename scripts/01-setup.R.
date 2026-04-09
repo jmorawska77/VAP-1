@@ -1,0 +1,13 @@
+# scripts/01-setup.R
+
+options(stringsAsFactors = FALSE)
+
+
+# ustawiamy seed (ważne dla replikowalności)
+set.seed(20260222)
+
+# tworzymy folder outputs jeśli nie istnieje
+dir.create("outputs", showWarnings = FALSE)
+dir.create("outputs/tables", recursive = TRUE, showWarnings = FALSE)
+dir.create("outputs/figures", recursive = TRUE, showWarnings = FALSE)
+dir.create("outputs/checks", recursive = TRUE, showWarnings = FALSE)
